@@ -1,4 +1,4 @@
 # apnacollege-demo
 this is my first Git Repository
 <br>
-author - MAYANK CHAND THAKU
+author - MAYANK CHAND THAKUR
